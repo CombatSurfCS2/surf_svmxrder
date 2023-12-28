@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\surf\inner_sfloor.vmt"
+	"file"	"materials\models\surf\inner_sdfloor.vmt"
+}

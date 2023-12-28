@@ -1,0 +1,7 @@
+"name_remap_table"
+{
+	"src2filenamechange"
+	{
+		"maps\surf_svmxrder_prefab.vmap"		"maps\surf_svmxrder.vmf"
+	}
+}

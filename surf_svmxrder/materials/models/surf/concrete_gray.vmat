@@ -1,0 +1,48 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/surf/concrete_gray_color.tga"
+	"TextureNormal"		"materials/models/surf/white_normal_3_normal.tga"
+	"g_vNormalTexCoordCenter"		"[0.000000 0.000000]"
+	"g_vNormalTexCoordScale"		"[1.000000 1.000000]"
+	"g_vNormalTexCoordRotation"		"0.000000"
+	"g_vNormalTexCoordOffset"		"[0.000000 0.000000]"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.250000"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureRoughness"		"[0.594000 0.594000 0.594000 1.000000]"
+	"TextureDetail"		"materials/concrete/hr_c/hr_concrete_polished_001_detail.tga"
+	"g_vDetailTexCoordScale"		"[0.130000 0.130000]"
+	"g_flDetailBlendFactor"		"1.550000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"concrete"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models/surf/concrete_gray"
+			"$reflectivity"		"[0.25 0.25 0.25]"
+			"$addbumpmaps"		"1"
+			"$bumpmap2"		"concrete/hr_c/hr_concrete_floor_generic_001_normals"
+			"$bumptransform2"		"center 0 0 scale .023 .023 rotate 0 translate 0 0"
+			"$bumpdetailscale2"		"0.100000"
+			"$bumpmap"		"models/surf/white_normal_3"
+			"$bumptransform"		"center 0 0 scale 1 1 rotate 0 translate 0 0"
+			"$bumpdetailscale1"		"1"
+			"$surfaceprop"		"concrete"
+			"$detail"		"concrete/hr_c/hr_concrete_polished_001_detail"
+			"$detailscale"		"0.130000"
+			"$detailblendfactor"		"1.550000"
+			"$envmap"		"environment maps/metal_generic_002"
+			"$envmaptint"		"[0.25 0.25 0.25]"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0.0 0.80]"
+			"$envmapsaturation"		"0.750000"
+			"$envmapcontrast"		"0.200000"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+importfilelist
+{
+	"file" "materials/skybox/dreamyoceanrt.vmt"
+	"file" "materials/de_train/train_metalceiling_02.vmt"
+	"file" "materials/metal/metalpipe003a_cheap.vmt"
+	"file" "materials/de_cbble/grassfloor01.vmt"
+	"file" "materials/tools/toolsnodraw.vmt"
+	"file" "materials/tools/toolsskybox.vmt"
+	"file" "materials/tools/toolstrigger.vmt"
+	"file" "lighting/postprocessing/surf_svmxrder_prefab\surf_svmxrder_prefab.vpost"
+}

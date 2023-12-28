@@ -1,0 +1,8 @@
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\skybox\dreamyoceanrt.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\de_train\train_metalceiling_02.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\metal\metalpipe003a_cheap.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\de_cbble\grassfloor01.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\tools\toolsnodraw.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\tools\toolsskybox.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\materials\tools\toolstrigger.vmat
+E:\Torrents\CS2Installer\content\csgo_addons\surf_svmxrder\lighting\postprocessing\surf_svmxrder_prefab\surf_svmxrder_prefab.vpost

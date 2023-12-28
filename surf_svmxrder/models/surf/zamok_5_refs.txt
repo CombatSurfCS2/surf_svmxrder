@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\surf\ski3_corner.vmt"
+	"file"	"materials\models\surf\ski3_move.vmt"
+	"file"	"materials\models\surf\concrete_gray.vmt"
+}

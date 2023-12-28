@@ -1,0 +1,52 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/surf/ski3_move_color.tga"
+	"TextureNormal"		"materials/models/surf/white_normal_3_normal.tga"
+	"g_vNormalTexCoordCenter"		"[0.000000 0.000000]"
+	"g_vNormalTexCoordScale"		"[3.000000 3.000000]"
+	"g_vNormalTexCoordRotation"		"0.000000"
+	"g_vNormalTexCoordOffset"		"[0.000000 0.000000]"
+	"DynamicParams"
+	{
+		"g_vTexCoordOffset"		"frac( float2( 0.328, 0.229 ) * time() )"
+	}
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.750000"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureRoughness"		"[0.103125 0.103125 0.103125 1.000000]"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"concrete"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$model"		"1"
+			"$basetexture"		"models/surf/ski3_move"
+			"$envmap"		"environment maps/metal_generic_002"
+			"$surfaceprop"		"concrete"
+			"$bumpmap"		"models/surf/white_normal_3"
+			"$bumptransform"		"center 0 0 scale 3 3 rotate 0 translate 0 0"
+			"$reflectivity"		"[0.55 0.55 0.55]"
+			"$envmaptint"		"[0.75 0.75 0.75]"
+			"$envmapcontrast"		"0.500000"
+			"$fresnelreflection"		"0.310000"
+			"$envmaplightscale"		"1"
+			"$basetexture"		"models/surf/ski3_move"
+			"$bumpmap"		"models/surf/white_normal_3"
+			"$model"		"1"
+			"Proxies"
+			{
+				"TextureScroll"
+				{
+					"texturescrollvar"		"$Basetexturetransform"
+					"texturescrollrate"		"0.400000"
+					"texturescrollangle"		"35"
+				}
+			}
+		}
+	}
+}

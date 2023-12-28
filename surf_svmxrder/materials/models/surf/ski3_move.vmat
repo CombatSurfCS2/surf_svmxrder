@@ -1,0 +1,36 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/surf/d_black_color.tga"
+	"TextureNormal"		"materials/models/surf/white_normal_3_normal.tga"
+	"g_vNormalTexCoordCenter"		"[0.000000 0.000000]"
+	"g_vNormalTexCoordScale"		"[3.000000 3.000000]"
+	"g_vNormalTexCoordRotation"		"0.000000"
+	"g_vNormalTexCoordOffset"		"[0.000000 0.000000]"
+	"DynamicParams"
+	{
+		"g_vTexCoordOffset"		"frac( float2( -0.000, 0.010 ) * time() )"
+	}
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models/surf/d_black"
+			"$bumpmap"		"models/surf/white_normal_3"
+			"$bumptransform"		"center 0 0 scale 3 3 rotate 0 translate 0 0"
+			"$model"		"1"
+			"Proxies"
+			{
+				"TextureScroll"
+				{
+					"texturescrollvar"		"$Basetexturetransform"
+					"texturescrollrate"		"0.010000"
+					"texturescrollangle"		"90"
+				}
+			}
+		}
+	}
+}

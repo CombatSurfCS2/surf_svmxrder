@@ -1,0 +1,18 @@
+importfilelist
+{
+	"file" "materials\models\weapons\w_models\w_snip_awp\awp.vmt"
+	"file" "materials\models\surf\rock_3.vmt"
+	"file" "materials\models\weapons\w_models\w_shot_nova\shot_nova.vmt"
+	"file" "materials\models\surf\inner_sfloor.vmt"
+	"file" "materials\models\weapons\shared\scope\scope_awp.vmt"
+	"file" "materials\models\surf\d_ramp.vmt"
+	"file" "materials\models\surf\inner_sdfloor.vmt"
+	"file" "materials\models\surf\concrete_gray.vmt"
+	"file" "materials\models\surf\ski3_main.vmt"
+	"file" "materials\models\surf\concrete_black.vmt"
+	"file" "materials\models\surf\flag.vmt"
+	"file" "materials\models\surf\ski3_cyan.vmt"
+	"file" "materials\models\surf\ski3_corner.vmt"
+	"file" "materials\models\surf\ski3_move.vmt"
+	"file" "materials\models\weapons\shared\shells\shotgun\shell_shotgun.vmt"
+}
